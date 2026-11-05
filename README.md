@@ -4,7 +4,7 @@
 
 # Knorrie
 
-> Technical founder
+> Content Creator
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=itsknorrie&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F294328099%3Fu%3D9b6251ff5450b97d4e97e66a1792e83c9d08008e%26v%3D4" alt="itsknorrie hero visual" />
@@ -18,7 +18,7 @@
 
 - 👥 **0** followers · **0** following
 
-*Small, useful work over vague claims.*
+*Small steps, big achievements*
 
 ## Products and proof
 
